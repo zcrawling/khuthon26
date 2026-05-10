@@ -2,7 +2,7 @@
 
 ![디각 서비스 스크린샷](assets/screenshot.png)
 
-Khuthon 2026 우수상 수상작
+[Khuthon 2026 우수상 수상작](https://thon.khlug.org/about/2026#:~:text=%EC%BF%A0%EC%B9%B4%ED%94%84,%EB%8F%84%EA%B5%AC%2C%20DigGak(%EB%94%94%EA%B0%81))
 
 ## 소개 페이지
 
